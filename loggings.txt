@@ -1,0 +1,93 @@
+2022-01-31/15:48:48		existed aggregated data found and deleted
+2022-01-31/15:49:46		existed aggregated data found and deleted
+2022-01-31/15:49:46		data preprocessing started
+2022-01-31/15:57:47		data preprocessing was successful
+2022-01-31/15:57:47		train test split started
+2022-01-31/15:57:47		splitting of data set into the training and test datasets done.
+2022-01-31/15:57:47		vectorization started
+2022-01-31/16:07:03		vectorization(tfidf) of train and test files done and tfidf model saved at tfidf.pkl
+2022-01-31/16:07:03		model creation started
+2022-01-31/16:08:33		model creation done and model saved in model.pkl file
+2022-01-31/17:56:29		existed aggregated data found and deleted
+2022-01-31/17:56:30		data preprocessing started
+2022-01-31/18:04:42		data preprocessing was successful
+2022-01-31/18:04:42		train test split started
+2022-01-31/18:04:42		splitting of data set into the training and test datasets done.
+2022-01-31/18:04:42		vectorization started
+2022-01-31/18:04:47		existing training and testing files found and deleted, saving new created files...
+2022-01-31/18:16:23		existing tfidf model found and deleted, saving new created model...
+2022-01-31/18:16:23		vectorization(tfidf) of train and test files done and tfidf model saved at tfidf.pkl
+2022-01-31/18:16:23		model creation started
+2022-01-31/18:18:29		existing model found and deleted, saving new model...
+2022-01-31/18:18:35		model creation done and model saved in model.pkl file
+2022-02-10/17:32:51		data preprocessing started
+2022-02-10/17:33:13		data preprocessing was successful
+2022-02-10/17:33:13		train test split started
+2022-02-10/17:33:14		splitting of data set into the training and test datasets done.
+2022-02-10/17:33:14		vectorization started
+2022-02-10/17:33:14		existing training and testing files found and deleted, saving new created files...
+2022-02-10/17:33:17		existing tfidf model found and deleted, saving new created model...
+2022-02-10/17:33:17		vectorization(tfidf) of train and test files done and tfidf model saved at tfidf.pkl
+2022-02-10/17:33:17		model creation started
+2022-02-10/17:51:27		data preprocessing started
+2022-02-10/17:51:54		data preprocessing started
+2022-02-10/17:52:16		data preprocessing was successful
+2022-02-10/17:52:16		train test split started
+2022-02-10/17:52:16		splitting of data set into the training and test datasets done.
+2022-02-10/17:52:16		vectorization started
+2022-02-10/17:52:44		data preprocessing started
+2022-02-10/17:53:06		data preprocessing was successful
+2022-02-10/17:53:06		train test split started
+2022-02-10/17:53:06		splitting of data set into the training and test datasets done.
+2022-02-10/17:53:06		vectorization started
+2022-02-10/17:53:07		existing training and testing files found and deleted, saving new created files...
+2022-02-10/17:53:10		existing tfidf model found and deleted, saving new created model...
+2022-02-10/17:53:10		vectorization(tfidf) of train and test files done and tfidf model saved at tfidf.pkl
+2022-02-10/17:53:10		model creation started
+2022-02-10/17:53:12		existing model found and deleted, saving new model...
+2022-02-10/17:53:12		model creation done and model saved in model.pkl file
+2022-02-10/18:09:12		data preprocessing started
+2022-02-10/18:09:34		data preprocessing was successful
+2022-02-10/18:09:34		train test split started
+2022-02-10/18:09:34		splitting of data set into the training and test datasets done.
+2022-02-10/18:09:34		vectorization started
+2022-02-10/18:09:51		data preprocessing started
+2022-02-10/18:10:13		data preprocessing was successful
+2022-02-10/18:10:13		train test split started
+2022-02-10/18:10:13		splitting of data set into the training and test datasets done.
+2022-02-10/18:10:13		vectorization started
+2022-02-10/18:10:13		existing training and testing files found and deleted, saving new created files...
+2022-02-10/18:10:16		existing tfidf model found and deleted, saving new created model...
+2022-02-10/18:10:16		vectorization(tfidf) of train and test files done and tfidf model saved at tfidf.pkl
+2022-02-10/18:10:16		model creation started
+2022-02-10/18:10:18		existing model found and deleted, saving new model...
+2022-02-10/18:10:18		model creation done and model saved in model.pkl file
+2022-02-10/18:14:39		data preprocessing started
+2022-02-10/18:15:14		data preprocessing was successful
+2022-02-10/18:15:50		train test split started
+2022-02-10/18:15:50		splitting of data set into the training and test datasets done.
+2022-02-10/18:16:26		vectorization started
+2022-02-10/18:19:27		data preprocessing started
+2022-02-10/18:19:49		data preprocessing was successful
+2022-02-10/18:19:49		train test split started
+2022-02-10/18:19:49		splitting of data set into the training and test datasets done.
+2022-02-10/18:19:49		vectorization started
+2022-02-10/18:19:49		existing tfidf model found and deleted, saving new created model...
+2022-02-10/18:19:49		vectorization(tfidf) of train and test files done and tfidf model saved at tfidf.pkl
+2022-02-10/18:19:49		no existing training and testing files , saving new created files...
+2022-02-10/18:19:53		model creation started
+2022-02-10/18:19:55		existing model found and deleted, saving new model...
+2022-02-10/18:19:55		model creation done and model saved in model.pkl file
+2022-02-10/20:12:54		data preprocessing started
+2022-02-10/20:13:25		data preprocessing started
+2022-02-10/20:14:17		data preprocessing started
+2022-02-10/20:14:41		data preprocessing was successful
+2022-02-10/20:14:41		train test split started
+2022-02-10/20:14:41		splitting of data set into the training and test datasets done.
+2022-02-10/20:14:41		vectorization started
+2022-02-10/20:14:41		existing tfidf model found and deleted, saving new created model...
+2022-02-10/20:14:41		vectorization(tfidf) of train and test files done and tfidf model saved at tfidf.pkl
+2022-02-10/20:14:41		existing training and testing files found and deleted, saving new created files...
+2022-02-10/20:14:45		model creation started
+2022-02-10/20:14:47		existing model found and deleted, saving new model...
+2022-02-10/20:14:47		model creation done and model saved in model.pkl file
