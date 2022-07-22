@@ -29,9 +29,11 @@ def predict():
         svm_model=pickle.load(open("model.pkl", "rb"))
         prediction=svm_model.predict(X_df)
         if(prediction==0):
-            return 'Negative'
+            return render_template('negative.html')
+            # return 'Negative'
         elif(prediction==1):
-            return 'Positive'
+            return render_template('positive.html')
+            # return 'Positive'
         else:
             return 'error'
 
